@@ -1178,7 +1178,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](https://github.com/Blindusername001/Sentiment-Analysis-on-CovidVaccination-tweets/blob/main/Images/output_29_0.png)
     
 
 
@@ -1214,7 +1214,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](https://github.com/Blindusername001/Sentiment-Analysis-on-CovidVaccination-tweets/blob/main/Images/output_32_0.png)
     
 
 
@@ -1264,7 +1264,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](https://github.com/Blindusername001/Sentiment-Analysis-on-CovidVaccination-tweets/blob/main/Images/output_35_0.png)
     
 
 
@@ -1289,7 +1289,7 @@ plt.tight_layout()
 
 
     
-![png](output_36_0.png)
+![png](https://github.com/Blindusername001/Sentiment-Analysis-on-CovidVaccination-tweets/blob/main/Images/output_36_0.png)
     
 
 
@@ -1337,7 +1337,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](https://github.com/Blindusername001/Sentiment-Analysis-on-CovidVaccination-tweets/blob/main/Images/output_39_0.png)
     
 
 
@@ -1380,7 +1380,7 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![png](https://github.com/Blindusername001/Sentiment-Analysis-on-CovidVaccination-tweets/blob/main/Images/output_42_0.png)
     
 
 
